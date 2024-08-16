@@ -7,9 +7,9 @@
 #include <ArduinoJson.h>            // https://github.com/bblanchon/ArduinoJson 
 #include <ESP32Firebase.h>
 
-#define _SSID "Sachita"          // Your WiFi SSID 
-#define _PASSWORD "sachihata"      // Your WiFi Password 
-#define REFERENCE_URL "https://data-storage-1c375-default-rtdb.asia-southeast1.firebasedatabase.app/"  // Your Firebase project reference url 
+#define _SSID "Your WiFi SSID "          // Your WiFi SSID 
+#define _PASSWORD "WiFi Password"      // Your WiFi Password 
+#define REFERENCE_URL "Your Firebase project reference url "  // Your Firebase project reference url 
 
 //define sound speed in cm/uS
 #define SOUND_SPEED 0.034
